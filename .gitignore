@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Keep directories traversable so exceptions can work
+!*/
+
+# Keep Jupyter notebooks anywhere in the repo
+!*.ipynb
+
+# Keep the ignore file itself tracked
+!.gitignore
