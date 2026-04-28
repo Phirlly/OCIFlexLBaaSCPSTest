@@ -6,6 +6,8 @@
 
 # Keep Jupyter notebooks anywhere in the repo
 !*.ipynb
+!*.md
 
 # Keep the ignore file itself tracked
 !.gitignore
+
